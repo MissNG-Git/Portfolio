@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Hero from "../hero/hero";
 
 export default class Header extends Component {
   render() {
@@ -39,6 +40,9 @@ export default class Header extends Component {
           <a className="s-header__menu-toggle" href="#0" title="Menu">
             <span className="s-header__menu-icon" />
           </a>
+          <div className="row banner">
+            <Hero />
+          </div>
         </header>
       </React.Fragment>
     );
