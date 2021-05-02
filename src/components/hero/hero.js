@@ -9,7 +9,7 @@ export default class Hero extends Component {
           <div className="row s-hero__content">
             <div className="column">
               <div className="s-hero__content-about">
-                <h1>I'm MissNG</h1>
+                <h1>I am MissNG</h1>
                 <h3>
                   I'm a Sydney-based <span>web developer</span>, who enjoys
                   creating mobile-first applications that are not only
@@ -25,23 +25,14 @@ export default class Hero extends Component {
                   .
                 </h3>
                 <div className="s-hero__content-social">
-                  <a href="#0">
-                    <i className="fab fa-facebook-square" aria-hidden="true" />
+                  <a href="https://www.linkedin.com/in/jessie-n-9302b962/">
+                    <i className="fab fa-linkedin-in" aria-hidden="true" />
                   </a>
-                  <a href="#0">
-                    <i className="fab fa-twitter" aria-hidden="true" />
+                  <a href="https://github.com/MissNG-Git">
+                    <i className="fab fa-github" aria-hidden="true" />
                   </a>
-                  <a href="#0">
-                    <i className="fab fa-instagram" aria-hidden="true" />
-                  </a>
-                  <a href="#0">
-                    <i className="fab fa-dribbble" aria-hidden="true" />
-                  </a>
-                  <a href="#0">
-                    <i className="fab fa-behance" aria-hidden="true" />
-                  </a>
-                  <a href="#0">
-                    <i className="fab fa-linkedin" aria-hidden="true" />
+                  <a href="mailto:MissNg.dev@gmail.com">
+                    <i className="far fa-envelope" aria-hidden="true" />
                   </a>
                 </div>
               </div>
