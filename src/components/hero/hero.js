@@ -21,7 +21,7 @@ export default class Hero extends Component {
                   </a>{" "}
                   to learn more{" "}
                   <a className="smoothscroll" href="#about">
-                    about me!
+                    about me
                   </a>
                   .
                 </h3>
