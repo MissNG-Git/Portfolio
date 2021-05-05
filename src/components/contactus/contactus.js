@@ -7,7 +7,7 @@ export default class Contact extends Component {
         <section id="contact" className="s-contact target-section">
           <div className="row s-contact__header">
             <div className="column large-12">
-              <h3 className="section-header-allcaps">Say Hello</h3>
+              <h3 className="section-header-allcaps">Get in Touch</h3>
             </div>
           </div>
           <div className="row s-contact__content">

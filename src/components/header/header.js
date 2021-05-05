@@ -29,7 +29,7 @@ export default class Header extends Component {
                 </li>
                 <li>
                   <a className="smoothscroll" href="#contact">
-                    Say Hello
+                    Get in Touch
                   </a>
                 </li>
               </ul>
