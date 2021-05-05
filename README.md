@@ -12,6 +12,7 @@ List of Technologies Utilized include...
 - [FontAwesome](https://fontawesome.com/)
 - [GitBash](https://gitforwindows.org/)
 - [React.js](https://reactjs.org/)
+- [Heroku](https://www.heroku.com/)
 
 ## ≫ ──── ≪•◦ OBJECTIVES ◦•≫ ──── ≪
 
@@ -37,7 +38,9 @@ The following images show the web application's appearance & functionality:
 
 - Make header stick to top & scroll with page scrolling
 
+- Determine gh-pages deployment issue
+
 ### ≫ ──── ≪•◦ USABILITY ◦•≫ ──── ≪
 
-1. Navigate to deployed application page on [GitHub Pages](https://missng-portfolio.herokuapp.com/)
+1. Navigate to deployed application page on [Heroku](https://missng-portfolio.herokuapp.com/)
 2. Scroll down through page or alternative click one of the links at the top.
