@@ -112,7 +112,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/weather.png"
                   alt="Weather DashThumbnail"
                 />
               </a>
