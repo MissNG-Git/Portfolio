@@ -19,7 +19,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/portfolio.png"
+                  src="/images/portfolio/coming-soon.png"
                   // srcSet="
                   //  images/portfolio/droplet.jpg    1x,
                   //  images/portfolio/droplet@2x.jpg 2x
@@ -38,7 +38,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/diremptory.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="DIRemptory Thumbnail"
                 />
               </a>
@@ -53,7 +53,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/budget-budgie.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="Budget Budgie Thumbnail"
                 />
               </a>
@@ -68,7 +68,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/source-commerce.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="SourcE-commerce Thumbnail"
                 />
               </a>
@@ -83,7 +83,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/burger-logger.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="Burger-Logger Thumbnail"
                 />
               </a>
@@ -97,7 +97,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/cocktails-cuisines.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="Cocktails &#38; Cuisines Thumbnail"
                 />
               </a>
@@ -112,7 +112,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/weather-dash.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="Weather DashThumbnail"
                 />
               </a>
