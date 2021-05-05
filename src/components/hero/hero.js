@@ -10,11 +10,12 @@ export default class Hero extends Component {
             <div className="column">
               <div className="s-hero__content-about">
                 <h1>I am MissNG</h1>
+                <span>(aka Jessie Ng)</span>
                 <h3>
-                  I'm a Sydney-based <span>web developer</span>, who enjoys
+                  I am a Sydney-based <span>web developer</span>, who enjoys
                   creating mobile-first applications that are not only
                   eye-catching and innovative, but also practical and
-                  user-friendly.
+                  user-friendly.{" "}
                   <a className="smoothscroll" href="#about">
                     Start scrolling
                   </a>{" "}
@@ -25,11 +26,11 @@ export default class Hero extends Component {
                   .
                 </h3>
                 <div className="s-hero__content-social">
-                  <a href="https://www.linkedin.com/in/jessie-n-9302b962/">
-                    <i className="fab fa-linkedin-in" aria-hidden="true" />
-                  </a>
                   <a href="https://github.com/MissNG-Git">
                     <i className="fab fa-github" aria-hidden="true" />
+                  </a>
+                  <a href="https://www.linkedin.com/in/jessie-n-9302b962/">
+                    <i className="fab fa-linkedin-in" aria-hidden="true" />
                   </a>
                   <a href="mailto:MissNg.dev@gmail.com">
                     <i className="far fa-envelope" aria-hidden="true" />
