@@ -14,6 +14,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://missng-portfolio.herokuapp.com/"
+                id="#modal-01"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -32,6 +33,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://missng-git.github.io/DIRemptory/"
+                id="#modal-02"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -46,6 +48,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://budget-budgie.herokuapp.com/"
+                id="#modal-03"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -60,6 +63,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="http://murmuring-bastion-13699.herokuapp.com/"
+                id="#modal-04"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -74,6 +78,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://burglog-00.herokuapp.com/"
+                id="#modal-05"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -87,6 +92,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://luuluu75.github.io//Cocktails-Cuisines/"
+                id="#modal-06"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -101,6 +107,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a
                 href="https://missng-git.github.io/WeatherDash/"
+                id="#modal-07"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -113,7 +120,12 @@ export default class Projects extends Component {
             {/* end folio-item */}
 
             <div className="column folio-item">
-              <a href="#modal-08" className="folio-item__thumb" target="blank">
+              <a
+                href="#modal-08"
+                id="#modal-08"
+                className="folio-item__thumb"
+                target="blank"
+              >
                 <img
                   src="/images/portfolio/coming-soon.png"
                   alt="Coming Soon Thumbnail"
