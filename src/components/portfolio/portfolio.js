@@ -19,7 +19,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/portfolio.png"
                   // srcSet="
                   //  images/portfolio/droplet.jpg    1x,
                   //  images/portfolio/droplet@2x.jpg 2x
@@ -38,7 +38,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/diremptory.png"
                   alt="DIRemptory Thumbnail"
                 />
               </a>
@@ -53,7 +53,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/budget.png"
                   alt="Budget Budgie Thumbnail"
                 />
               </a>
@@ -68,7 +68,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/source.png"
                   alt="SourcE-commerce Thumbnail"
                 />
               </a>
@@ -83,7 +83,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/burger.png"
                   alt="Burger-Logger Thumbnail"
                 />
               </a>
@@ -97,7 +97,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/coming-soon.png"
+                  src="/images/portfolio/cc.png"
                   alt="Cocktails &#38; Cuisines Thumbnail"
                 />
               </a>
