@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Unit 20 React Homework: React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ⋘ ──── ∗⋅◦∘◈\[[MissNg Portfolio](https://missng-portfolio.herokuapp.com/)\]◈∘◦⋅∗ ──── ⋙
 
-## Available Scripts
+An updated portfolio created using React, the new site contains all pertinent information such as my name, GitHub & LinkedIn links, email address and phone number. It also contains a link to my resume and a list of projects.
 
-In the project directory, you can run:
+List of Technologies Utilized include...
 
-### `yarn start`
+- HTML, CSS, Javascript
+- [Bootstrap CSS](https://getbootstrap.com/)
+- [GoogleFonts](https://fonts.google.com/)
+- [FontAwesome](https://fontawesome.com/)
+- [GitBash](https://gitforwindows.org/)
+- [React.js](https://reactjs.org/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ≫ ──── ≪•◦ OBJECTIVES ◦•≫ ──── ≪
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
++ AS A recruiter
++ I WANT to view the portfolio of a prospective hire
++ SO THAT I can determine whether they are the right fit for a position
+```
 
-### `yarn test`
+## ≫ ──── ≪•◦ MOCK-UP ◦•≫ ──── ≪
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The following images show the web application's appearance & functionality:
 
-### `yarn build`
+<p float="left">
+    <img src="/public/images/capture.PNG" alt="MissNg Portfolio Screenshot" width="250" style="margin-right: 10px;" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ≫ ──── ≪•◦ FUTURE DEVELOPMENTS ◦•≫ ──── ≪
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Fix 'Back to Top' smoothscroll arrow
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Drill components through props
 
-### `yarn eject`
+- Make header stick to top & scroll with page scrolling
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### ≫ ──── ≪•◦ USABILITY ◦•≫ ──── ≪
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Navigate to deployed application page on [GitHub Pages](https://missng-portfolio.herokuapp.com/)
+2. Scroll down through page or alternative click one of the links at the top.
