@@ -18,7 +18,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/portfolio.png"
+                  src="/images/portfolio/portfolio.png"
                   // srcSet="
                   //  images/portfolio/droplet.jpg    1x,
                   //  images/portfolio/droplet@2x.jpg 2x
@@ -36,7 +36,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/diremptory.png"
+                  src="/images/portfolio/diremptory.png"
                   alt="DIRemptory Thumbnail"
                 />
               </a>
@@ -50,7 +50,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/budget-budgie.png"
+                  src="/images/portfolio/budget-budgie.png"
                   alt="Budget Budgie Thumbnail"
                 />
               </a>
@@ -64,7 +64,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/source-commerce.png"
+                  src="/images/portfolio/source-commerce.png"
                   alt="SourcE-commerce Thumbnail"
                 />
               </a>
@@ -78,7 +78,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/burger-logger.png"
+                  src="/images/portfolio/burger-logger.png"
                   alt="Burger-Logger Thumbnail"
                 />
               </a>
@@ -91,7 +91,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/cocktails-cuisines.png"
+                  src="/images/portfolio/cocktails-cuisines.png"
                   alt="Cocktails &#38; Cuisines Thumbnail"
                 />
               </a>
@@ -105,7 +105,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="images/portfolio/weather-dash.png"
+                  src="/images/portfolio/weather-dash.png"
                   alt="Weather DashThumbnail"
                 />
               </a>
@@ -115,7 +115,7 @@ export default class Projects extends Component {
             <div className="column folio-item">
               <a href="#modal-08" className="folio-item__thumb" target="blank">
                 <img
-                  src="images/portfolio/coming-soon.png"
+                  src="/images/portfolio/coming-soon.png"
                   alt="Coming Soon Thumbnail"
                 />
               </a>
