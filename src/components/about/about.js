@@ -9,33 +9,20 @@ export default class About extends Component {
             <div className="column large-3 tab-12">
               <img
                 className="s-about__pic"
-                src="https://via.placeholder.com/150"
+                src="/images/avatars/MissNg.jpg"
                 alt=""
               />
             </div>
             <div className="column large-9 tab-12 s-about__content">
               <h3>About Me</h3>
               <p>
-                Junior full-stack developer adopting over a decade of customer
-                service and administrative experience to implement
-                client-focused UI within functional web development. Having
-                received my full-stack development certificate from the
-                University of Sydney, I am excited to further develop the
-                multitude of skills acquired in technologies such as JavaScript,
-                CSS, MySQL and Mongo, as well as React.js.
-              </p>
-              <p>
-                With a keen eye for detail and a passion for development, I am
-                dedicated to creating mobile-first applications that are not
-                only eye-catching and innovative, but also practical and
-                user-friendly. Each project I take on works around the core
-                ideology that providing a positive user experience ensures a
-                personal connection is made with the intended audience. An
-                example of this is showcased in my latest four-man collaboration
-                project where we developed an e-commerce application that not
-                only helped businesses track their sales portfolio and
-                inventory, but also provided a separate storefront allowing
-                customers to place an order for desired products.
+                A detailed, junior developer utilizing over a decade of customer
+                service and administrative experience to create client-focused
+                UI within functional web development. Earned a certificate in
+                Full-Stack Web Development from the University of Sydney. Aspire
+                to create user-friendly, mobile-first applications. Strengths in
+                creativity, teamwork and motivation to further career in the
+                coding industry.
               </p>
               <p>
                 My journey into the world of web development is only just
@@ -58,7 +45,7 @@ export default class About extends Component {
                   </p>
                 </div>
                 <div className="column w-1000-stack">
-                  <a href="#0" className="btn btn--download">
+                  <a href="/CV.pdf" className="btn btn--download">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width={24}
