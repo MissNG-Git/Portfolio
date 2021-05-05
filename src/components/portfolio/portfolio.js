@@ -19,11 +19,7 @@ export default class Projects extends Component {
                 target="blank"
               >
                 <img
-                  src="/images/portfolio/portfolio.png"
-                  // srcSet="
-                  //  images/portfolio/droplet.jpg    1x,
-                  //  images/portfolio/droplet@2x.jpg 2x
-                  // "
+                  src="/images/portfolio/folio.png"
                   alt="PortfolioThumbnail"
                 />
               </a>
@@ -32,38 +28,8 @@ export default class Projects extends Component {
 
             <div className="column folio-item">
               <a
-                href="https://missng-git.github.io/DIRemptory/"
-                id="#modal-02"
-                className="folio-item__thumb"
-                target="blank"
-              >
-                <img
-                  src="/images/portfolio/diremptory.png"
-                  alt="DIRemptory Thumbnail"
-                />
-              </a>
-            </div>
-            {/* end folio-item */}
-
-            <div className="column folio-item">
-              <a
-                href="https://budget-budgie.herokuapp.com/"
-                id="#modal-03"
-                className="folio-item__thumb"
-                target="blank"
-              >
-                <img
-                  src="/images/portfolio/budget.png"
-                  alt="Budget Budgie Thumbnail"
-                />
-              </a>
-            </div>
-            {/* end folio-item */}
-
-            <div className="column folio-item">
-              <a
                 href="http://murmuring-bastion-13699.herokuapp.com/"
-                id="#modal-04"
+                id="#modal-02"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -77,22 +43,8 @@ export default class Projects extends Component {
 
             <div className="column folio-item">
               <a
-                href="https://burglog-00.herokuapp.com/"
-                id="#modal-05"
-                className="folio-item__thumb"
-                target="blank"
-              >
-                <img
-                  src="/images/portfolio/burger.png"
-                  alt="Burger-Logger Thumbnail"
-                />
-              </a>
-            </div>
-            {/* end folio-item */}
-            <div className="column folio-item">
-              <a
                 href="https://luuluu75.github.io//Cocktails-Cuisines/"
-                id="#modal-06"
+                id="#modal-03"
                 className="folio-item__thumb"
                 target="blank"
               >
@@ -106,14 +58,59 @@ export default class Projects extends Component {
 
             <div className="column folio-item">
               <a
+                href="https://missng-git.github.io/DIRemptory/"
+                id="#modal-04"
+                className="folio-item__thumb"
+                target="blank"
+              >
+                <img
+                  src="/images/portfolio/dir.png"
+                  alt="DIRemptory Thumbnail"
+                />
+              </a>
+            </div>
+            {/* end folio-item */}
+
+            <div className="column folio-item">
+              <a
+                href="https://budget-budgie.herokuapp.com/"
+                id="#modal-05"
+                className="folio-item__thumb"
+                target="blank"
+              >
+                <img
+                  src="/images/portfolio/budget.png"
+                  alt="Budget Budgie Thumbnail"
+                />
+              </a>
+            </div>
+            {/* end folio-item */}
+
+            <div className="column folio-item">
+              <a
                 href="https://missng-git.github.io/WeatherDash/"
-                id="#modal-07"
+                id="#modal-06"
                 className="folio-item__thumb"
                 target="blank"
               >
                 <img
                   src="/images/portfolio/weather.png"
                   alt="Weather DashThumbnail"
+                />
+              </a>
+            </div>
+            {/* end folio-item */}
+
+            <div className="column folio-item">
+              <a
+                href="https://burglog-00.herokuapp.com/"
+                id="#modal-07"
+                className="folio-item__thumb"
+                target="blank"
+              >
+                <img
+                  src="/images/portfolio/burger.png"
+                  alt="Burger-Logger Thumbnail"
                 />
               </a>
             </div>
