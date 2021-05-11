@@ -1,4 +1,4 @@
-# Unit 20 React Homework: React Portfolio
+# Unit 20 React: React Portfolio
 
 ## ⋘ ──── ∗⋅◦∘◈\[[MissNg Portfolio](https://missng-portfolio.herokuapp.com/)\]◈∘◦⋅∗ ──── ⋙
 
