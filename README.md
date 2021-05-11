@@ -40,7 +40,9 @@ The following images show the web application's appearance & functionality:
 
 - Determine gh-pages deployment issue
 
+- Incorporate modals to project images
+
 ### ≫ ──── ≪•◦ USABILITY ◦•≫ ──── ≪
 
 1. Navigate to deployed application page on [Heroku](https://missng-portfolio.herokuapp.com/)
-2. Scroll down through page or alternative click one of the links at the top.
+2. Scroll down through page or alternatively click one of the links at the top.

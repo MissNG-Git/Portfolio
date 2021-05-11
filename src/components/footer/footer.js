@@ -24,11 +24,11 @@ export default class Footer extends Component {
                   </a>
                 </li>
               </ul>
-              <span>© Content Copyright MissNG 2021</span>
+              <span>© Copyright MissNG 2021</span>
             </div>
             <div className="column large-7 medium-6 w-1000-stack ss-copyright">
               <span>
-                © Design by <a href="https://www.styleshout.com/">StyleShout</a>
+                © <a href="https://www.styleshout.com/">StyleShout Design</a>
               </span>
             </div>
           </div>
