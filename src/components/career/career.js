@@ -26,7 +26,7 @@ export default class Career extends Component {
                 manage the delivery of asset services under the LAHC AMS
                 contract on the Northern Beaches
               </p>
-              <p>
+              <span>
                 <strong>Key responsibilities</strong>
                 <ul>
                   <li>
@@ -53,7 +53,7 @@ export default class Career extends Component {
                     evidenced by compliments submitted by tenants and associates
                   </li>
                 </ul>
-              </p>
+              </span>
             </div>
 
             <div className="resume-block">
@@ -75,7 +75,7 @@ export default class Career extends Component {
                 managers, assisting with operational asset management, marketing
                 and financial reporting
               </p>
-              <p>
+              <span>
                 <strong>Key responsibilities</strong>
                 <ul>
                   <li>
@@ -96,7 +96,7 @@ export default class Career extends Component {
                     some need to cite hard-copies
                   </li>
                 </ul>
-              </p>
+              </span>
             </div>
 
             <div className="resume-block">
@@ -118,7 +118,7 @@ export default class Career extends Component {
                 medical records, under strict timelines, in preparation for the
                 scheduled opening of a new hospital
               </p>
-              <p>
+              <span>
                 <strong>Key responsibilities</strong>
                 <ul>
                   <li>
@@ -143,7 +143,7 @@ export default class Career extends Component {
                     files per officer
                   </li>
                 </ul>
-              </p>
+              </span>
             </div>
 
             <div className="resume-block">
