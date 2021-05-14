@@ -7,7 +7,7 @@ export default class Projects extends Component {
         <section id="portfolio" className="s-portfolio target-section">
           <div className="row s-portfolio__header">
             <div className="column large-12">
-              <h3>My Projects</h3>
+              <h3>Portfolio Snapshot</h3>
             </div>
           </div>
           <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
