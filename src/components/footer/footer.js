@@ -14,7 +14,7 @@ export default class Footer extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/jessie-n-9302b962/">
+                  <a href="https://www.linkedin.com/in/MissNg/">
                     <i className="fab fa-linkedin-in" aria-hidden="true" />
                   </a>
                 </li>

@@ -29,7 +29,7 @@ export default class Hero extends Component {
                   <a href="https://github.com/MissNG-Git">
                     <i className="fab fa-github" aria-hidden="true" />
                   </a>
-                  <a href="https://www.linkedin.com/in/jessie-n-9302b962/">
+                  <a href="https://www.linkedin.com/in/MissNg/">
                     <i className="fab fa-linkedin-in" aria-hidden="true" />
                   </a>
                   <a href="mailto:MissNg.dev@gmail.com">
